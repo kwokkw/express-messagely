@@ -6,6 +6,7 @@
     "test": "jest -i",
     "start": "node server.js"
   },
+  "type": "module",
   "author": "",
   "license": "ISC",
   "dependencies": {
